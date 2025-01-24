@@ -4,4 +4,3 @@
 https://play.iptv365.org/tvbox.txt
 ```
 
-![image](https://iptv365.org/assets/GongZhongHao.png)
